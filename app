@@ -7,3 +7,9 @@ Hay un par de formas de descargar el código fuente, pero principalmente yo pref
 
 git clone <https://link-con-nombre-del-repositorio>
 Por ejemplo, si queremos descargar un proyecto desde Github, todo lo que necesitamos es hacer clic sobre el botón verde (clonar o descargar), copiar la URL de la caja y pegarla después del comando git clone que he mostrado más arriba.
+
+
+
+
+
+borrar
